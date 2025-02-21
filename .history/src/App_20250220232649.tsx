@@ -15,7 +15,7 @@ function App() {
             <Link to="/" className="flex items-center group">
               <Users className="h-8 w-8 text-purple-600 transition-transform group-hover:scale-110" />
               <span className="ml-2 text-xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 text-transparent bg-clip-text">
-                GenMate 
+                GenConnect
               </span>
             </Link>
             <div className="hidden md:flex items-center space-x-8">
