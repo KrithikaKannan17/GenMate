@@ -2,7 +2,7 @@
 
 📌 **Objective**
 
-GenConnect is a web application designed to foster meaningful connections between teenagers and senior citizens. The platform enables skill-sharing, mentorship, and companionship, creating an enriching intergenerational experience.
+GenMate is a web application designed to foster meaningful connections between teenagers and senior citizens. The platform enables skill-sharing, mentorship, and companionship, creating an enriching intergenerational experience.
 
 ---
 
@@ -55,8 +55,8 @@ GenConnect is a web application designed to foster meaningful connections betwee
 
 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/KrithikaKannan17/GenConnect.git
-cd GenConnect
+git clone https://github.com/KrithikaKannan17/GenMate.git
+cd GenMate
 ```
 
 2️⃣ **Install Dependencies**
@@ -88,4 +88,4 @@ Navigate to `http://localhost:3000`
 
 💻 **About**
 
-GenConnect fosters intergenerational connections by creating a structured and secure platform for mentorship, companionship, and skill-sharing.
+GenMate fosters intergenerational connections by creating a structured and secure platform for mentorship, companionship, and skill-sharing.
