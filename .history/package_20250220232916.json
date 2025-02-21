@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://KrithikaKannan17.github.io/GenMate",
+  "homepage": "https://KrithikaKannan17.github.io/GenConnecTT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
