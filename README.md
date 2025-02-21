@@ -1,4 +1,4 @@
-# GenConnect – Bridging Generations
+# GenMate – Bridging Generations
 
 📌 **Objective**
 
